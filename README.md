@@ -1,4 +1,5 @@
 #重点代码
+#####  https://github.com/yunxiuwu/color.git
 
 - (UIColor*) getPixelColorAtLocation:(CGPoint)point
 {
